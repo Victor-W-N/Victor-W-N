@@ -24,7 +24,6 @@ I have a strong interest in **automation, cybersecurity, simulation, cloud compu
 * Python
 * Flask
 * SQL / MySQL
-* PHP (learning)
 
 **Cloud & DevOps**
 
