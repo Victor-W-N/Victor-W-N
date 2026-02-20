@@ -43,8 +43,7 @@ I have a strong interest in **automation, cybersecurity, simulation, cloud compu
 ## 📫 How to reach me
 
 * 📧 Email: *victornjogu24@gmail.com*
-* 💼 LinkedIn: **
-* 🌐 Portfolio / Website: *optional*
+* 💼 LinkedIn: *https://www.linkedin.com/public-profile/settings*
 
 ---
 
